@@ -2,8 +2,5 @@ sudo: false
 language: go
 go:
   - "1.x"
-  - "1.6"
-  - "1.7"
-  - "1.8"
   - "1.10.x"
   - master
